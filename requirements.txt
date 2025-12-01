@@ -1,6 +1,5 @@
-this
-is
-a
-
-
-file
+streamlit
+numpy
+pandas
+matplotlib
+scipy
